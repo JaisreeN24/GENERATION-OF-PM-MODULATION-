@@ -98,6 +98,7 @@ plot(t,epm);
 
 ## Output Waveform:
 <img width="1919" height="1121" alt="image" src="https://github.com/user-attachments/assets/cfa6a977-4d96-4ef9-bbd0-9992170408ad" />
+<img width="1280" height="1600" alt="WhatsApp Image 2026-06-09 at 14 51 40" src="https://github.com/user-attachments/assets/31e6a406-8bc0-4e00-9513-23e075bc606c" />
 
 
 
